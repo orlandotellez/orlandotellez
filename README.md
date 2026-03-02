@@ -1,5 +1,3 @@
-# Full Stack Developer
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-
+# Full Stack Developer  
+<img src="https://cdn.simpleicons.org/typescript" width="20"/> TypeScript • 
+<img src="https://cdn.simpleicons.org/rust" width="20"/> Rust
