@@ -20,10 +20,10 @@
 
 <p>
   <a href="https://github.com/orlandotellez">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=orlandotellez&theme=transparent" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=orlandotellez&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
  <img
-  height="200"
+  height="500"
   width="300"
   alt="languages graph"
   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orlandotellez&theme=transparent"
