@@ -24,7 +24,7 @@
   </a>
  <img
   height="200"
-  width="400"
+  width="300"
   alt="languages graph"
   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orlandotellez&theme=transparent"
 />
