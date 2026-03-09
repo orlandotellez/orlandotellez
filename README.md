@@ -39,7 +39,7 @@
 <a href="mailto:orlandogabrieltellez@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/orlando-gabriel-t%C3%A9llez">
+<a href="https://linkedin.com/in/orlandogabrieltellez">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/@landodev">
