@@ -31,8 +31,12 @@
   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orlandotellez&theme=transparent"
 />   
   </a> 
- 
 <p>
+
+## Current Projects
+
+- 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado 
+- 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas 
 
 ## Contact me
 
