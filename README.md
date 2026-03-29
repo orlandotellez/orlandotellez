@@ -37,7 +37,8 @@
 
 - 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado
 - 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - Eccomerce de componentes de hardware  
-- 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas 
+- 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas
+- 🖼️ **[VertiCollage](https://github.com/orlandotellez/verticollage)** - Creador de collages verticales 
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
 ## Contact me
