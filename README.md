@@ -41,7 +41,8 @@
 - 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - Eccomerce de componentes de hardware
 - 💬 **[Anteny App](https://github.com/orlandotellez/anteny-app)** - App de mensajería con React Native y Matrix  
 - 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas
-- 🖼️ **[VertiCollage](https://github.com/orlandotellez/verticollage)** - Creador de collages verticales 
+- 🖼️ **[VertiCollage](https://github.com/orlandotellez/verticollage)** - Creador de collages verticales
+- 📘 **[Manuals](https://github.com/orlandotellez/manuals)** - Mis manuales de desarrollo 
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
 ## Contact me
