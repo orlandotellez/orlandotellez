@@ -41,6 +41,9 @@
 - 📘 **[Manuals](https://github.com/orlandotellez/manuals)** - Mis manuales de desarrollo 
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
+## Templates
+- **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantilla de una página de arquitectos
+
 ## Contact me
 
 <a href="mailto:orlandogabrieltellez@gmail.com">
