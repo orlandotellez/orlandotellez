@@ -43,7 +43,8 @@
 
 ## Templates
 - **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantilla de una página de arquitectos
-
+- **[Hardware](https://github.com/orlandotellez/hardware-web)** - Plantilla de una página de componentes de hardware
+  
 ## Contact me
 
 <a href="mailto:orlandogabrieltellez@gmail.com">
