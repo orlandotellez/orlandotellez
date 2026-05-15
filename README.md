@@ -42,7 +42,7 @@
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
 ## Templates
-- **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantilla de una página de arquitectos
+- **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantillas de páginas de arquitectura
 - **[Hardware](https://github.com/orlandotellez/hardware-web)** - Plantilla de una página de componentes de hardware
   
 ## Contact me
