@@ -43,7 +43,7 @@
 
 ## Templates
 - **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantillas de páginas de arquitectura
-- **[Hardware](https://github.com/orlandotellez/hardware-web)** - Plantilla de una página de componentes de hardware
+- **[Dashboards](https://github.com/orlandotellez/dashboard-suite)** - Plantillas Full Stack de paneles administrativos 
   
 ## Contact me
 
