@@ -37,7 +37,7 @@
 
 - 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado
 - 💻 **[Cursinet](https://github.com/orlandotellez/cursinet)** - Plataforma de educación en linea
-- 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - Eccomerce de componentes de hardware
+- 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - E-commerce de componentes de hardware
 - 💬 **[Anteny App](https://github.com/orlandotellez/anteny-app)** - App de mensajería con React Native y Matrix
 - ⌨️ **[Restix](https://github.com/orlandotellez/restix)** - Explorador de Redis en terminal: Keys, TTL e interactividad
 - 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas
