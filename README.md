@@ -44,7 +44,7 @@
 - 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas
 - 🖼️ **[VertiCollage](https://github.com/orlandotellez/verticollage)** - Creador de collages verticales
 - ✏️ **[Planificator](https://github.com/orlandotellez/planificator)** - Aplicación web para planificar rutinas y gestión de tareas 
-- 📘 **[Manuals](https://github.com/orlandotellez/manuals)** - Mis manuales de desarrollo 
+- 📘 **[Manuals](https://orlandotellez.github.io/manuals/book/)** - Mis manuales de desarrollo 
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
 ## Templates
