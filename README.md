@@ -48,7 +48,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=orlandotellez&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
   <a>
- 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandotellez&theme=github-dark&bg_color=00000000&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
   </a> 
 <p>
 
