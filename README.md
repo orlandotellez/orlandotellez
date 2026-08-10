@@ -27,7 +27,6 @@
 ## Database & CMS
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%234945FF.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 
 ## Tools & Environment
