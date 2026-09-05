@@ -50,8 +50,8 @@
 
 ## Current Projects
 
-- 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado
 - 🗳 **[CajoraPos](https://github.com/orlandotellez/cajora-pos)** - Sistema POS App/Desktop/Web
+- 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado
 - 💻 **[Cursinet](https://cursinet.vercel.app)** - Plataforma de educación en linea
 - 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - E-commerce de componentes de hardware
 - 💬 **[Anteny App](https://github.com/orlandotellez/anteny-app)** - App de mensajería con React Native y Matrix
