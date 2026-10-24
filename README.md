@@ -58,16 +58,11 @@
 - 🛒 **[TechComponents](https://github.com/orlandotellez/techcomponents)** - E-commerce de componentes de hardware
 - 💬 **[Anteny App](https://github.com/orlandotellez/anteny-app)** - App de mensajería con React Native y Matrix
 - ⌨️ **[Restix](https://github.com/orlandotellez/restix)** - Explorador de Redis en terminal: Keys, TTL e interactividad
-- 🏷️ **[Rasflow](https://github.com/orlandotellez/rasflow)** - Aplicación web para gestión y organización de tareas
 - 🖼️ **[VertiCollage](https://github.com/orlandotellez/verticollage)** - Creador de collages verticales
 - ✏️ **[Planificator](https://github.com/orlandotellez/planificator)** - Aplicación web para planificar rutinas y gestión de tareas 
 - 📘 **[Manuals](https://orlandotellez.github.io/manuals/book/)** - Mis manuales de desarrollo 
 - 🚀 **[Dotfiles](https://github.com/orlandotellez/dotfiles)** - Mi configuración de nvim, ghostty y zed 
 
-## Templates
-- **[Arquitectura](https://github.com/orlandotellez/arquitecture-page)** - Plantillas de páginas de arquitectura
-- **[Dashboards](https://github.com/orlandotellez/dashboard-suite)** - Plantillas Full Stack de paneles administrativos 
-  
 ## Contact me
 
 <a href="mailto:orlandogabrieltellez@gmail.com">
