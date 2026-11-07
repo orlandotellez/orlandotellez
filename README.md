@@ -50,7 +50,7 @@
 
 ## Current Projects
 
-- 🗳 **[CajoraPos](https://github.com/orlandotellez/cajora-pos)** - Sistema POS App/Desktop/Web
+- 🗳 **[CajoraPos](https://cajorapos.com)** - Sistema POS App/Desktop/Web
 - 📚 **[Bookteka](https://github.com/orlandotellez/bookteka)** - Tu biblioteca digital personal con lector integrado
 - 📦 **[fwinit](https://github.com/orlandotellez/fwinit)** - CLI para crear proyectos desde templates.
 - ⚒ **[Dexagram](https://github.com/orlandotellez/dexagram)** - Diagramas Entidad Relación en Desktop/Web 
